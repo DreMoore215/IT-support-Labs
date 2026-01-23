@@ -22,3 +22,12 @@
 - Network troubleshooting
 - Service verification
 - Connectivity validation
+# Networking Basics Lab
+
+## Evidence
+
+### Traceroute
+![Traceroute](screenshots/traceroute.png)
+
+### Open Ports
+![Open Ports](screenshots/ports.png)
