@@ -21,14 +21,3 @@ Simulated a high CPU process using the `yes` command and resolved it using proce
 
 ## Outcome
 System performance restored and stabilized.
-
-## Screenshots
-
-### System Load Check
-![Uptime](screenshots/uptime.png)
-
-### High CPU Process Detected
-![Before](screenshots/top-before.png)
-
-### After Termination
-![After](screenshots/top-after.png)
